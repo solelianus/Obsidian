@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "trashOption": "local",
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "spellcheck": false,
+  "autoConvertHtml": true,
+  "vimMode": false,
+  "propertiesInDocument": "visible"
+}
